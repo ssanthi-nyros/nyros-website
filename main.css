@@ -17,7 +17,6 @@ body
 
 .navbar-brand img{
     height:2rem;
-    widows: 150px;
 }
 
 .navbar-nav li{
@@ -41,14 +40,12 @@ body
 
 
 
-
-
     /*header style*/
 .big-banner
 {
-    background-image: url('images/task.jpeg');
+    background-image: url('task.jpeg');
     background-size: cover;
-    padding-top:550px;
+    padding-top:500px;
 }
 .caption{
     position: absolute;
